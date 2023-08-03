@@ -1,0 +1,28 @@
+.delivery {
+  background-image: url(../img/delivery-fon.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.delivery-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.delivery-content__text {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+}
+
+.block__title {
+  text-align: left;
+  line-height: 1;
+}
+
+.delivery__text {
+  font-size: 18px;
+  color: rgba(61, 49, 55, 0.96);
+}/*# sourceMappingURL=style6.css.map */
